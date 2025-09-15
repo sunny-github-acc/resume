@@ -1,9 +1,9 @@
 # Interactive Terminal Resume
 
-![Terminal CV Demo](https://link-to-your-screenshot-or-gif.gif)
-
 > An interactive, terminal-themed resume built with Next.js and React.
-> **Live Demo:** [your-live-url.com](https://your-live-url.com)
+> **Live Demo:** [https://karolis-resume.netlify.app/](https://https://karolis-resume.netlify.app/)
+
+<img width="489" height="245" alt="Screenshot 2025-09-15 at 13 29 46" src="https://github.com/user-attachments/assets/4cc6870e-bd65-4b13-ad1f-39a23f11dd05" />
 
 ## About The Project
 
@@ -27,7 +27,7 @@ To get a local copy up and running, follow these simple steps.
 
 ### Prerequisites
 
-* Node.js (v18 or later)
+* Node.js (v22 or later)
 * npm
 
 ### Installation
