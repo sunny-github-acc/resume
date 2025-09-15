@@ -1,7 +1,7 @@
 # Interactive Terminal Resume
 
 > An interactive, terminal-themed resume built with Next.js and React.
-> **Live Demo:** [https://karolis-resume.netlify.app/](https://https://karolis-resume.netlify.app/)
+> **Live Demo:** [https://karolis-resume.netlify.app/](https://karolis-resume.netlify.app/)
 
 <img width="489" height="245" alt="Screenshot 2025-09-15 at 13 29 46" src="https://github.com/user-attachments/assets/4cc6870e-bd65-4b13-ad1f-39a23f11dd05" />
 
